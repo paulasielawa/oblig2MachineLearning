@@ -1,5 +1,9 @@
 # oblig2MachineLearning
 
+Members of the group: 
+Paula Sielawa - s364584
+George Alexander Saavedra - s360536
+
 We picked regression for predicting stock prices, which is a good match for estimating continuous numbers like the closing price of Tesla (TSLA) stock. In our code, we used polynomial regression, a flexible approach that can handle the complex, non-linear patterns often seen in financial data. This choice helps in capturing the intricate dynamics of stock prices, which are not always straightforward. So, regression, especially with polynomial modeling, is a strong choice for our task.
 
 We choose this task: Predict stock market price for TESLA.
